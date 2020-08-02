@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Clement Sam</h1>
 <h3 align="center">A passionate Software Engineer from 0x41414141, Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=profclems" alt="profclems" /> </p>
-
 - 🔭 I’m currently working on [GLab](https://github.com/profclems/glab)
 
 - 🌱 I’m currently learning **BSc. Computer Science and Engineering**
