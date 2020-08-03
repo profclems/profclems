@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [GLab](https://github.com/profclems/glab)
 
-- 🌱 I’m currently learning **BSc. Computer Science and Engineering**
+<!--- 🌱 I'm currently learning -->
+
+- 🎓 I’m currently pursuing **BSc. Computer Science and Engineering**
 
 - 👯 I’m looking to collaborate on [PHP-src](https://github.com/php/php-src)
 
@@ -11,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://clementsam.tech](https://clementsam.tech)
 
-- 💬 Ask me about **Go, PHP, Laravel, C#**
+- 💬 Ask me about **Go, PHP, Laravel, C#, VueJS, AWS, Docker, K8**
 
 - 📫 How to reach me **clementsam75@gmail.com**
 
