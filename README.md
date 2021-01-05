@@ -18,7 +18,7 @@
 - 📫 How to reach me **clementsam75@gmail.com**
 
 <!-- ⚡ Fun fact **I taught myself to code at the age of 14**-->
-
+<!--
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> 
@@ -33,6 +33,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
 </p>
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=profclems&show_icons=true&count_private=true" alt="profclems" /> 
 </p>
