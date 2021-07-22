@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://clementsam.tech](https://clementsam.tech)
 -->
 
-- 💬 Ask me about **Go, PHP, Laravel, C#, VueJS, AWS, Docker, K8**
+- 💬 Ask me about **Go, PHP, Laravel, C#, AWS, Docker, K8**
 
 - 📫 How to reach me **clementsam75@gmail.com**
 
