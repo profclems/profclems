@@ -1,25 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Clement Sam</h1>
 <h3 align="center">A passionate Software Engineer from 0x41414141, Ghana</h3>
 
-- 🔭 I’m currently working on [GLab](https://github.com/profclems/glab)
+- 🔭 I’m the creator of [GLab](https://github.com/profclems/glab), GitLab CLI tool.
 
 - 🌱 I'm currently learning [Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
 
-<!-- 
-- 🎓 I’m currently pursuing **Computer Science and Engineering**
+- 👯 I’m looking to collaborate on any interesting open source project.
 
-- 👯 I’m looking to collaborate on [PHP-src](https://github.com/php/php-src)
-
-- 🤔 I’m looking for help with [GLab](https://github.com/profclems/glab)
-
-- 👨‍💻 All of my projects are available at [https://clementsam.tech](https://clementsam.tech)
--->
-
-- 💬 Ask me about **Go, PHP, Laravel, C#, AWS, Docker, K8**
-
-- 📫 How to reach me **clementsam75@gmail.com**
-
-<!-- ⚡ Fun fact **I taught myself to code at the age of 14**-->
 <!--
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
