@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Clement Sam</h1>
-<h3 align="center">A passionate Software Engineer from 0x41414141, Ghana</h3>
+<h3 align="center">A passionate Software Engineer from 0x41414141, Ghana 🇬🇭</h3>
 
-- 🔭 I’m the creator of [GLab](https://github.com/profclems/glab), GitLab CLI tool.
+- 🔭 I’m the creator of [GLab](https://github.com/profclems/glab), which has been adopted as GitLab's official CLI tool.
 
+<!--
 - 🌱 I'm currently learning [Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
 
 - 👯 I’m looking to collaborate on any interesting open source project.
 
-<!--
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> 
