@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Clement Sam</h1>
 <h3 align="center">A passionate Software Engineer from 0x41414141, Ghana 🇬🇭</h3>
 
-- 🔭 I’m the creator of [GLab](https://github.com/profclems/glab), which has been adopted as GitLab's official CLI tool.
+- 🔭 I’m the creator of [GLab](https://github.com/profclems/glab), which has been [adopted](https://about.gitlab.com/blog/2022/12/07/introducing-the-gitlab-cli/) as GitLab's official CLI tool.
 
 <!--
 - 🌱 I'm currently learning [Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
